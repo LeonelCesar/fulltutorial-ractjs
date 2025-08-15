@@ -1,0 +1,10 @@
+.fieldForem {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form {
+  margin: 1rem 0;
+ 
+}
