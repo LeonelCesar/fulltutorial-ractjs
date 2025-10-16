@@ -17,8 +17,6 @@ import SpreadOperater from "./components/spreadOperetor/SpreadOperetor";
 import RenderProps from "./components/renderProps/RenderProps";
 import ReactTesting from "./components/reactTesting/ReactTesting";
 import FormulariSimples from "./components/_formularioZod-Typ-ReactHook/FormularioSimples";
-import ComponentToTryThings from "./components/componentToTryThings/componentToTryThings";
-import FetchAPIFormulario from "./components/fetchApiFormulario/FetchAPIFormulario";
 
 function App() {
   return (
@@ -42,8 +40,6 @@ function App() {
       <RenderProps />
       <ReactTesting />
       <FormulariSimples />
-      <ComponentToTryThings />
-      <FetchAPIFormulario />
     </div>
   );
 }

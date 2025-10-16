@@ -6,7 +6,7 @@ function FormsComponents() {
   const handlerSubmit = (e) => {
     e.preventDefault();
     setName("");
-    console.log("Eloa Maria Brito César");
+    console.log("Eloa Maria Neves César");
   };
 
   return (
